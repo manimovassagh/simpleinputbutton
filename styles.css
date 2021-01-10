@@ -1,0 +1,34 @@
+body{
+    padding: 0px;
+    border:0px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+body{
+    background-color: rgb(170, 170, 170);
+}
+#text1{
+border: solid 2px coral;
+margin: 8px;
+padding: 7px;
+justify-items: center;
+
+}
+#text2{
+    border: solid 2px coral;
+    margin: 8px;
+    padding: 7px;
+    align-items: center;
+    justify-items: center;
+    
+    }
+    #btn1{
+        color: rgb(0, 0, 0);
+        padding: 8px;
+        border-radius: 8px;
+        background-color: rgb(243, 128, 151);
+        justify-items: center;
+    }
